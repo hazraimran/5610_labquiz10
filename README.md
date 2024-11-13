@@ -1,3 +1,4 @@
+# Lab 10 - Authentication
 # Activity 0 - Installing Auth0 React SDK & obtaining the domain and clientId
 
 ### Instructions
