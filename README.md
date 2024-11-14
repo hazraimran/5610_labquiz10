@@ -11,7 +11,7 @@
 5. Add to .env File: Copy these values and add them to your .env file in your project root directory. Your .env file should look like this:
 `REACT_APP_AUTH0_DOMAIN=your-auth0-domain`
 `REACT_APP_AUTH0_CLIENT_ID=your-auth0-client-id`
-Replace your-auth0-domain and your-auth0-client-id with the actual values from Auth0.
+Replace your-auth0-domain and your-auth0-client-id with the actual values from Auth0. If there is no .env file then create one in src (where you have package.json)
 6. Save and Restart: After updating your .env file, save it and restart your development server to ensure the new environment variables are loaded.
 
 # Activity 1 –  Auth0Provider component
